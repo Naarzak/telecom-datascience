@@ -59,3 +59,5 @@ print(data)
 
 data.drop( [ column for column in data if len(set(data[column])) == 1 ], axis=1, inplace=True )
 print(data)
+
+#c bien
