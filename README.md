@@ -2,5 +2,5 @@
 
 Projet de prédiction de l'utilisation de la bande passante
 
-##To do:
-- K-Means
+## To do:
+1. K-Means
