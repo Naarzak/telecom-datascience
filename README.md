@@ -1,8 +1,3 @@
 # telecom-datascience
-skljdklsjdbfbsdf
-sdflhsbdkjfsf
-sdjfbsdfhsfs
-sdhfbshdfbsdf
-bkqbsdkjqsjdnqsd//
 
-sdflhsbdkjfsfqsdqkn
+Projet de prédiction de l'utilisation de la bande passante
