@@ -1,3 +1,3 @@
 # telecom-datascience
-to do : n\
+to do :\
 KNN: 
