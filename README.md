@@ -1,6 +1,6 @@
 # telecom-datascience
 to do :\
-KNN: 
+KNN: \
 2. Réaliser une analyse exploratoire :
 a. Décrire les données sélectionnées à l’aide de statistiques descriptives.
 b. Créer des visualisations pertinentes pour comprendre les relations entre les variables.
